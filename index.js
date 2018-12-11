@@ -1,3 +1,6 @@
+(function () {
+    'use strict';
+  
 angular.module('ngEdit',[]).directive('ngEditable', function () {
     return {
         require: 'ngModel',
@@ -14,4 +17,5 @@ angular.module('ngEdit',[]).directive('ngEditable', function () {
             ctrl.$render();
         }
     };
+});
 });
