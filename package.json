@@ -1,0 +1,33 @@
+{
+  "name": "ngeditable",
+  "version": "1.0.0",
+  "description": "Directive to make any HTML element editable in angularjs",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadeemShadan/ngeditable.git"
+  },
+  "keywords": [
+    "editable",
+    "edit",
+    "html",
+    "angularjs",
+    "edit",
+    "div",
+    "angularjs",
+    "edit div content",
+    "edit html tags",
+    "edit html elements angularjs"
+  ],
+  "author": "Nadeem Shadan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NadeemShadan/ngeditable/issues"
+  },
+  "homepage": "https://github.com/NadeemShadan/ngeditable#readme"
+}
