@@ -1,6 +1,6 @@
 {
   "name": "ngeditable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Directive to make any HTML element editable in angularjs",
   "main": "index.js",
   "dependencies": {},
