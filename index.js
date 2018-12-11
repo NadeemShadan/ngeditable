@@ -1,7 +1,7 @@
 (function () {
     'use strict';
   
-angular.module('ngEdit',['ng']).directive('ngEditable', [function () {
+angular.module('ngEdit',[]).directive('ngEditable', function () {
     return {
         require: 'ngModel',
         link: function (scope, element, attrs, ctrl) {
@@ -17,5 +17,5 @@ angular.module('ngEdit',['ng']).directive('ngEditable', [function () {
             ctrl.$render();
         }
     };
-}]);
+});
 });
