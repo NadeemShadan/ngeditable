@@ -1,4 +1,4 @@
-angular.module('ngEditable').directive('ngEditable', function () {
+angular.module('ngEdit').directive('ngEditable', function () {
     return {
         require: 'ngModel',
         link: function (scope, element, attrs, ctrl) {
