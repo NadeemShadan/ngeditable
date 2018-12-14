@@ -17,7 +17,7 @@ Make sure the script is included in index.html
 Inject in app.js 
 ```js
 angular
-    .module('myApp',['ngEditable']);
+    .module('myApp',['ngEdit']);
 ```
 add the directive to the element you want to edit
 
